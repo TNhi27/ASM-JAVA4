@@ -1,0 +1,36 @@
+.container{
+    width: 70%;
+}
+.navbar{
+    background-color: blanchedalmond;
+    border-bottom: 2px solid black;
+    margin-bottom: 5px;
+}
+.img-logo{
+    width: 100px;
+    height: 70px;
+}
+.carousel-item > img{
+   
+    height: 400px;
+}
+.slide{
+    margin-bottom: 50px;
+}
+.navigation{
+    text-align: center;
+}
+.page-re{
+    margin-top: 30px;
+    text-align: center;
+}
+.social-icons{
+    display: flex;
+    list-style: none;
+}
+.footer{
+    text-align: center;
+    border-top:1px solid black;
+    color: blanchedalmond;
+    background-color: #616161;
+}
